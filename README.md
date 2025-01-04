@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 
 ---
 
-📬 Let's connect!  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [](https://yourblog.com)  
-- [Portfolio](https://yourportfolio.com)
+## 📬 How To Connect  
+### Sites
+- [Naver Blog](https://blog.naver.com/yebon__kim)  
+- [Tistory Blog](https://kybblog.tistory.com/)  
+- [Notion Portfolio](https://surf-timpani-fed.notion.site/Hey-I-m-Kim-Yebon-170b50c4ae7c80a4b31fc6b7707ba2fa)
+### Direct
+- Email: yebon.kim0605@gmail.com
