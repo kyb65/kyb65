@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 Hi there! I'm **Kim Yebon**, a passionate **Junior Developer** in the making 🤖, dedicated to creating programs that effectively help humans in daily life.
 
 ## 🔧 Tech Stack & Skills
-- **Languages**
+- **Languages**: 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-Java, C, Python
 - **Technologies**: Embedded Systems  
-- **Tools**: Git, VS Code, Arduino
+- **Tools**: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white">
 
 ## 🌱 What I'm Learning
 - Advanced robotics algorithms (SLAM, motion planning)  
