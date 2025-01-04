@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+references:
+https://github.com/euntaek4187
+https://github.com/thmsgbrt
+https://github.com/Thaiane#-a-little-more-about-me
+https://github.com/Coordinate-Cat
 -->
 
 # 🌟 Welcome to My GitHub Profile!
