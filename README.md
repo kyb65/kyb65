@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 안녕하세요! 열정있는 신입 개발자, **김예본**입니다. 일상생활을 편하게 만들어주는 프로그램 개발을 추구합니다.
 
----
-
 ## 🔧 What I Have Learnt
 - **Languages**: 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -30,9 +28,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects I'm Proud Of
 ### At HighSchool
-- **자리 배정 프로그램**(Java): 공정성과 효율성을 위해 개발한 프로그램입니다.
-- **주기율표 퀴즈 프로그램**(Java): 고등학교 화학 공부에 맞춤화된 주기율표 퀴즈 프로그램입니다.
-- **전기력선 시뮬레이터**(Java): 물리학 수업을 듣고 난 후 전기력선에 관심이 가서 만들게 된 프로그램입니다.
+- [**자리 배정 프로그램**(Java)](https://blog.naver.com/yebon__kim/222783257575): 공정성과 효율성을 위해 개발한 프로그램입니다.
+- [**주기율표 퀴즈 프로그램**(Java)](https://blog.naver.com/yebon__kim/223131493663): 고등학교 화학 공부에 맞춤화된 주기율표 퀴즈 프로그램입니다.
+- [**전기력선 시뮬레이터**(Java)](https://blog.naver.com/yebon__kim/223502304709): 물리학 수업을 듣고 난 후 전기력선에 관심이 가서 만들게 된 프로그램입니다.
 ### At University
 - 
 
