@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 Hi there! I'm **Kim Yebon**, a passionate **Junior Developer** in the making 🤖, dedicated to creating programs that effectively help humans in daily life.
 
 ## 🔧 Tech Stack & Skills
-- **Languages**: Java, C, Python
+- **Languages**: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+Java, C, Python
 - **Technologies**: Embedded Systems  
 - **Tools**: Git, VS Code, Arduino
 
