@@ -20,7 +20,7 @@ Hi there! I'm **Kim Yebon**, a passionate **Junior Developer** in the making ðŸ¤
 
 ## ðŸ”§ Tech Stack & Skills
 - **Languages**
-  - <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 Java, C, Python
 - **Technologies**: Embedded Systems  
 - **Tools**: Git, VS Code, Arduino
