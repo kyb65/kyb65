@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kyb65/kyb65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,20 +16,22 @@ Here are some ideas to get you started:
 
 # 🌟 Welcome to My GitHub Profile!
 
-Hi there! I'm **[Your Name]**, a passionate **Robotics Engineer** in the making 🤖, dedicated to creating robots that interact naturally with humans in daily life.
+Hi there! I'm **Kim Yebon**, a passionate **Junior Developer** in the making 🤖, dedicated to creating programs that effectively help humans in daily life.
 
 ## 🔧 Tech Stack & Skills
-- **Languages**: Python, C++, JavaScript  
-- **Technologies**: ROS (Robot Operating System), AI/ML, Embedded Systems  
-- **Tools**: Git, VS Code, Arduino, CAD  
+- **Languages**: Java, C, Python
+- **Technologies**: Embedded Systems  
+- **Tools**: Git, VS Code, Arduino
 
 ## 🌱 What I'm Learning
 - Advanced robotics algorithms (SLAM, motion planning)  
 - Real-time systems for humanoid robots  
 
 ## 🚀 Projects I'm Proud Of
-- **Seating Arrangement Program**: Optimized classroom seating arrangements for fairness and collaboration.  
-- **[Your Other Project]**: Brief description of another notable project.  
+### At HighSchool
+- **Seating Arrangement Program**(Java): Optimized classroom seating arrangements for fairness and collaboration.  
+- **Electric line of force Simulator**(Java): Brief description of another notable project.
+### At University
 
 ## 🌟 Fun Facts
 - 📚 I enjoy reading about **programming psychology** and sci-fi novels.  
@@ -40,5 +41,5 @@ Hi there! I'm **[Your Name]**, a passionate **Robotics Engineer** in the making 
 
 📬 Let's connect!  
 - [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Blog](https://yourblog.com)  
+- [](https://yourblog.com)  
 - [Portfolio](https://yourportfolio.com)
