@@ -21,18 +21,18 @@ Hi there! I'm **Kim Yebon**, a passionate **Junior Developer** in the making �
 ## 🔧 Tech Stack & Skills
 - **Languages**: 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-- **Technologies**: Embedded Systems  
 - **Tools**: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white">
 
 ## 🌱 What I'm Learning
-- Advanced robotics algorithms (SLAM, motion planning)  
-- Real-time systems for humanoid robots  
+- SpringBoot 
 
 ## 🚀 Projects I'm Proud Of
 ### At HighSchool
-- **Seating Arrangement Program**(Java): Optimized classroom seating arrangements for fairness and collaboration.  
-- **Electric line of force Simulator**(Java): Brief description of another notable project.
+- **Seating Arrangement Program**(Java): Optimized classroom seating arrangements for fairness and collaboration.
+- **Periodic Table Quiz Program**(Java): Quiz program specialized for Korean chemistry test.
+- **Electric line of force Simulator**(Java): Simulator made when I was interested in Electrics in Physics class.
 ### At University
+- 
 
 ## 🌟 Fun Facts
 - 📚 I enjoy reading about **programming psychology** and sci-fi novels.  
