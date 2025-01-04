@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects I'm Proud Of
 ### At HighSchool
-- **Seating Arrangement Program**(Java): Optimized classroom seating arrangements for fairness and collaboration.
-- **Periodic Table Quiz Program**(Java): Quiz program specialized for Korean chemistry test.
-- **Electric line of force Simulator**(Java): Simulator made when I was interested in Electrics in Physics class.
+- **자리 배정 프로그램**(Java): 공정성과 효율성을 위해 개발한 프로그램입니다.
+- **주기율표 퀴즈 프로그램**(Java): 고등학교 화학 공부에 맞춤화된 주기율표 퀴즈 프로그램입니다.
+- **전기력선 시뮬레이터**(Java): 물리학 수업을 듣고 난 후 전기력선에 관심이 가서 만들게 된 프로그램입니다. 
 ### At University
 - 
 
