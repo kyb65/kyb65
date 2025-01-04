@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 안녕하세요! 열정있는 신입 개발자, **김예본**입니다. 일상생활을 편하게 만들어주는 프로그램 개발을 추구합니다.
 
-## 🔧 What I Have Learnt
+## 🔧 What I've Learnt
 - **Languages**: 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 - **Tools**: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white">
